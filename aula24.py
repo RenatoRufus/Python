@@ -13,3 +13,5 @@ print("Idade :",idade)
 print('Ano de nascimento :', ano_nascimento)
 print('É maior de idade? :', maior_de_idade)
 print('Quanto mede a girafa :', altura_metros)
+
+print('"Já sei!"')
