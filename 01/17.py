@@ -1,4 +1,4 @@
-#if / elif      / else
+#if / elif      / else /
 #se / se não se / se não
 entrada = input('Você quer "Entrar" ou "Sair"?')
 
