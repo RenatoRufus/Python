@@ -8,7 +8,7 @@ colorama.init(autoreset=True)
 
 def mostrar_cores():
     """Mostra exemplos de diferentes cores de texto e fundo."""
-    print("## 🌈 Demonstração de Cores com Colorama")
+    print("## Demonstração de Cores com Colorama")
     print("-" * 40)
     print(f"{Fore.RED}Este texto está em vermelho.")
     print(f"{Fore.GREEN}Este texto está em verde.")
