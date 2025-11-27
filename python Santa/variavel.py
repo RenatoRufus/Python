@@ -17,5 +17,8 @@ print(f'Limite diario {LIMITE_DIARIO}')
 
 print(f'Limite diario {LIMITE_DIARIO}')
 
+print(5 // 2)
+float("a")
+
 
 
